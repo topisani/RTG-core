@@ -1,0 +1,3 @@
+[submodule "src/main/java/teamrtg/rtg/content"]
+	path = src/main/java/teamrtg/rtg/content
+	url = https://github.com/topisani/RTG-content
